@@ -4,4 +4,10 @@ numpy
 matplotlib
 plotly
 tensorflow
+tensorflow-gpu
 kaggle
+torch
+transformers
+sentencepiece
+tqdm
+sklearn
