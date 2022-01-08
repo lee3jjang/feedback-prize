@@ -11,3 +11,4 @@ transformers
 sentencepiece
 tqdm
 sklearn
+nltk
